@@ -1,4 +1,4 @@
-# Financial Data Pipeline
+# Time series analysis
 
 Projet d'analyse de série temporelle appliqué à l'action Apple (AAPL).
 Le cœur du travail se trouve dans le notebook [time_serie_analys.ipynb](time_serie_analys.ipynb), qui charge les données, visualise la série, teste la présence de tendance et de saisonnalité, puis applique un lissage de Holt-Winters.
